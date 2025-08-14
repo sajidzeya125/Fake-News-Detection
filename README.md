@@ -11,8 +11,7 @@ The project aims to develop a machine-learning model capable of identifying and 
 Fake news has become a significant issue in today's digital age, where information spreads rapidly through various online platforms. This project leverages machine learning algorithms to automatically determine the authenticity of news articles, providing a valuable tool to combat misinformation.
 
 ## Dataset
-
-We have used a labelled dataset containing news articles along with their corresponding labels (true or false). The dataset is divided into two classes:
+ Used a labelled dataset containing news articles along with their corresponding labels (true or false). The dataset is divided into two classes:
 - True: Genuine news articles
 - False: Fake or fabricated news articles
 
